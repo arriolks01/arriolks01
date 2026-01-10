@@ -5,7 +5,7 @@ Welcome to my Github page! I'm Kathy Zeleke.
 I'd like to describe myself as an aspiring technical writer passionate about learning all things technical documentation. Here are somethings to know about me:
 
 - I'm looking forward to contributing to open source documentation here on GitHub.
-- I will forever be a lifelong learner and writer. I'm currently learning about ethical hacking, just for fun!
+- As a life time learner, I enjoy learning new skills such as ethical hacking, just for fun!
 - Along with technical writing, I also enjoy reflective, inspirational blogging on Medium (https://medium.com/@LifeReloaded).
 - Fun fact: During my 3-year stint at Deloitte, I contributed to the markup and content editing of a Knowledge Management Repository for the Bureau of Engraving and Printing.
 
