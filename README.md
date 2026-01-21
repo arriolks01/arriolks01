@@ -6,9 +6,10 @@ I'd like to describe myself as an aspiring technical writer passionate about lea
 - 🗒️I'm looking forward to contributing to open source documentation here on GitHub.
 - 💻I enjoy learning new skills such as ethical hacking, just for fun!
 - ⚡Fun fact: During my 3-year stint at Deloitte, I contributed to the markup and content of a Knowledge Management Repository for the Bureau of Engraving and Printing. It brings joy to my heart knowing people used it for daily operations.
-## Where to Find me:
+## Where to Find me 🌐:
 - ✍🏾 Writing on <a href="https://medium.com/@LifeReloaded"> Medium <a>
 - 💼 Occasionally on <a href=  "https://www.linkedin.com/in/katszeleke/"> LinkedIn <a>
+- 📝 Tinkering with my <a href=  "https://thecreativemav.com/blog/"> Blog <a>
 
 
 
